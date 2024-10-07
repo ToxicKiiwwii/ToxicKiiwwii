@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, cybersecurity
 - 💞️ I’m looking to collaborate on cybersecurity skills, and game development skills
 - 📫 How to reach me ...
-- 😄 Pronouns: He/Him They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a Pokemon obsession
 
 <!---
